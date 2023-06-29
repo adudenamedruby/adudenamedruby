@@ -1,10 +1,23 @@
-<div align="center">
-   <h1>Hullo! 👋</h1>
-</div>
-
-### λ whoami
-
-My background is in philosophy, neuroscience, and physics. I like programming because it a great mix of problem solving and creativity. But also, there's that bit of mysticism about it, of being one of the people who read the secret script and wields the sacred power that runs our societies. Hopefully I can use that power for good. I'm also deeply passionate about education, and well-being, both mental and physical.
+<span style="color:green">λ *whoami*</span>.
+λ whoami
+adudenamedruby
+λ mdls
+kMDItemBackground                  = (
+    "philolophy",
+    "
+kMDItemColorSpace                  = "RGB"
+kMDItemContentCreationDate         = 2023-06-29 12:13:20 +0000
+kMDItemContentCreationDate_Ranking = 2023-06-29 00:00:00 +0000
+kMDItemContentModificationDate     = 2023-06-29 12:13:20 +0000
+kMDItemContentType                 = "public.png"
+kMDItemContentTypeTree             = (
+    "public.png",
+    "public.image",
+    "public.data",
+    "public.item",
+    "public.content"
+)
+background: { philosophy, neuroscience, and physics. I like programming because it a great mix of problem solving and creativity. But also, there's that bit of mysticism about it, of being one of the people who read the secret script and wields the sacred power that runs our societies. Hopefully I can use that power for good. I'm also deeply passionate about education, and well-being, both mental and physical.
 
 My life revolves around playing bass, literature, code, Tetris, education.
 
