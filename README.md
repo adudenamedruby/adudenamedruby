@@ -2,6 +2,8 @@
   <img src="info.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
+### GitHub Stats
+[![](https://raw.githubusercontent.com/adudenamedruby/profile-cards/master/profile-summary-card-output/radical/0-profile-details.svg)]
 ### Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=4&theme=radical&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
