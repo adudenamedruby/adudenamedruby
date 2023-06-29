@@ -131,23 +131,32 @@
             <li><span class="tealText">~ </span><span class="greenText">λ</span></li>
             <li><span class="tealText">~ </span><span class="greenText">λ cd</span> adudenamedruby</li>
             <li><span class="tealText">~/adudenamedruby </span>on <span class="yellowText">main [<span class="redText">-2</span><span class="greenText">+1</span>]</span><span class="greenText"> λ ls</span></li>
-            <li class="no-collapse">info.txt      code.txt      blurb.txt      trivia.txt</li>
+            <li class="no-collapse">info.txt      code.txt      blurb.txt</li>
             <li><span class="tealText">~/adudenamedruby </span>on <span class="yellowText">main [<span class="redText">-2</span><span class="greenText">+1</span>]</span><span class="greenText"> λ cat</span> info.txt</li>
             <li class="no-collapse">name:                roux g. buciu</li>
             <li class="no-collapse">position:            senior software engineer</li>
             <li class="no-collapse">org:                    mozilla</li>
             <li class="no-collapse">background:     philosophy, literature, psychology, physics</li>
+            <li class="no-collapse">interests/hobbies:      bass, neurosicence, astrophysics, game design, crepes</li>
             <li><span class="tealText">~/adudenamedruby </span>on <span class="yellowText">main [<span class="redText">-2</span><span class="greenText">+1</span>]</span><span class="greenText"> λ cat</span> code.txt</li>
             <li class="no-collapse">languages:        swift, lisp (common, racket, elisp), python, prolog, c</li>
-            <li class="no-collapse">os:                     macOS, iOS, ubuntu, arch</li>
+            <li class="no-collapse">os:                     macOS, iOS, iPadOS, ubuntu, arch</li>
+            <li class="no-collapse">preferred apps:</li>
+            <li class="no-collapse">   - editors:     emacs, neovim</li>
+            <li class="no-collapse">   - terminal:     kitty, iTerm2</li>
+            <li class="no-collapse">   - keyboard:</li>
+            <li class="no-collapse">     - model:     keyboardio model 01/100dvorak</li>
+            <li class="no-collapse">     - layout:     dvorak + custom symbol layer</li>
+            <li class="no-collapse">     - customizer:     karabiner-elements</li>
+            <li class="no-collapse">   - window manager:     amethyst, xmonad</li>
+            <li class="no-collapse">   - window manager:     amethyst, xmonad</li>
+            <li class="no-collapse">tech:               iOS development, Xcode, UIKit, SwiftUI, CLI, git</li>
             <li><span class="tealText">~/adudenamedruby </span>on <span class="yellowText">main [<span class="redText">-2</span><span class="greenText">+1</span>]</span><span class="greenText"> λ cat</span> blurb.txt</li>
             <li class="no-collapse">"Programming is wonderful because it's an equal mix of problem solving</li>
             <li class="no-collapse"> and creativity. But also, there's that bit of mysticism about it, of being one</li>
             <li class="no-collapse"> of the people who can read the secret script and wield the sacred power that</li>
             <li class="no-collapse"> runs our societies. Hopefully I can use that power for good."</li>
-            <li><span class="tealText">~/adudenamedruby </span>on <span class="yellowText">main [<span class="redText">-2</span><span class="greenText">+1</span>]</span><span class="greenText"> λ cat</span> trivia.txt</li>
-            <li class="no-collapse">interests:            bass, neurosicence, astrophysics, game design, crepes</li>
-            <li class="no-collapse">editors:               emacs, neovim</li>
+            <li><span class="tealText">~/adudenamedruby </span>on <span class="yellowText">main [<span class="redText">-2</span><span class="greenText">+1</span>]</span><span class="greenText"> λ</li>
           </ul>
         </section>
        </div>
