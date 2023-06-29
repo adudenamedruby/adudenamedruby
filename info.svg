@@ -34,7 +34,7 @@
         }
 
         .foregroundContainer {
-          position: absolute;
+          position: relative;
           top: 10px;
           bottom: 10px;
           left: 10px;
