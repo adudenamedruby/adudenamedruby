@@ -1,41 +1,6 @@
 <div align="center">
-   <h1>GitHub Profile Summary Cards</h1>
-   
-   
-   [繁體中文](./docs/README.zh-tw.md)
-   <p>
-      A tool to generate your github summary card for profile README. Inspired by <a href=https://github.com/tipsy/profile-summary-for-github>profile-summary-for-github</a>
-   </p>
-   <p>
-      :star: This repo is just for fun, feel free to contribute! :star:
-   </p>
-   <p align="center">
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards/stargazers">
-      <img alt="Stargazers" src="https://img.shields.io/github/stars/vn7n24fzkq/github-profile-summary-cards?style=for-the-badge&logo=github&color=f4dbd6&logoColor=D9E0EE&labelColor=302D41"></a>
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards/releases/latest">
-      <img alt="Releases" src="https://img.shields.io/github/release/vn7n24fzkq/github-profile-summary-cards.svg?style=for-the-badge&logo=semantic-release&color=f5bde6&logoColor=D9E0EE&labelColor=302D41"/></a>
-      <a href="https://www.conventionalcommits.org/en/v1.0.0/">
-      <img alt="conventionalcommits" src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?style=for-the-badge&logo=conventionalcommits&color=ee99a0&logoColor=D9E0EE&labelColor=302D41"></a>
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards/actions/workflows/github-action.yml">
-      <img alt="testandlint" src="https://img.shields.io/github/actions/workflow/status/vn7n24fzkq/github-profile-summary-cards/test-and-lint.yml?branch=main&label=Test%20and%20Lint&style=for-the-badge&color=a6da95"></a>
-   </p>
+   <h1>Hullo! 👋</h1>
 </div>
-
-<div align="center">
-<p>
-<a href="https://github-profile-summary-cards.vercel.app/demo.html">Get your own cards now!!</a>
-</p>
-
-
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/0-profile-details.svg)
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/3-stats.svg)
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/4-productive-time.svg)
-
-</div>
-
-# Hullo! 👋
 
 ###  $whoami
 
@@ -45,11 +10,15 @@ My life revolves around playing bass, literature, code, Tetris, education.
 
 And crepes.
 
-## Github Gamification
+![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/0-profile-details.svg)
+![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/3-stats.svg)
+![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/4-productive-time.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adudenamedruby&layout=compact&theme=radical)](https://github.com/adudenamedruby/github-readme-stats)
-
+</div>
 <!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adudenamedruby&layout=compact&theme=radical)](https://github.com/adudenamedruby/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 ![adudenamedruby's GitHub stats](https://github-readme-stats.vercel.app/api?username=adudenamedruby&theme=dracula&show_icons=true&include_all_commits=true)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=adudenamedruby&theme=dracula)](https://git.io/streak-stats)
