@@ -150,25 +150,6 @@
             <li class="no-collapse">interests:            bass, neurosicence, astrophysics, game design, crepes</li>
             <li class="no-collapse">editors:               emacs, neovim</li>
           </ul>
-          <ul>
-            <li><span class="tealText">~/adudenamedruby </span>on <span class="yellowText">main [<span class="redText">-2</span><span class="greenText">+1</span>]</span><span class="greenText"> λ github </span>--profile</li>
-            <li>
-              <img src="https://raw.githubusercontent.com/adudenamedruby/profile-cards/master/profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" width="700" height="200"></img>
-            </li>
-          </ul>
-          <ul>
-            <li><span class="tealText">~/adudenamedruby </span>on <span class="yellowText">main [<span class="redText">-2</span><span class="greenText">+1</span>]</span><span class="greenText"> λ github </span>--languages-by-commit --commits-by-time</li>
-            <li>
-              <img src="https://raw.githubusercontent.com/adudenamedruby/profile-cards/master/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Languages by commit" width="340" height="200"></img>
-              <img src="https://raw.githubusercontent.com/adudenamedruby/profile-cards/master/profile-summary-card-output/radical/4-productive-time.svg" alt="Commit times" width="340" height="200"></img>
-            </li>
-          </ul>
-          <ul>
-            <li><span class="tealText">~/adudenamedruby </span>on <span class="yellowText">main [<span class="redText">-2</span><span class="greenText">+1</span>]</span><span class="greenText"> λ github </span>--stats</li>
-            <li>
-              <img src="https://raw.githubusercontent.com/adudenamedruby/profile-cards/master/profile-summary-card-output/radical/3-stats.svg" alt="Github stats" width="340" height="200"></img>
-            </li>
-          </ul>
         </section>
        </div>
        </div>
