@@ -3,7 +3,12 @@
 </div>
 
 ### GitHub Stats
-[![](https://raw.githubusercontent.com/adudenamedruby/profile-cards/master/profile-summary-card-output/radical/0-profile-details.svg)]
+![](https://raw.githubusercontent.com/adudenamedruby/profile-cards/master/profile-summary-card-output/radical/0-profile-details.svg)
+![](https://raw.githubusercontent.com/adudenamedruby/profile-cards/master/profile-summary-card-output/radical/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/adudenamedruby/profile-cards/master/profile-summary-card-output/radical/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/adudenamedruby/profile-cards/master/profile-summary-card-output/radical/4-productive-time.svg)
+![](https://raw.githubusercontent.com/adudenamedruby/profile-cards/master/profile-summary-card-output/radical/3-stats.svg)
+
 ### Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=4&theme=radical&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
