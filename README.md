@@ -1,4 +1,5 @@
-<span style="color:green">λ *whoami*</span>.
+<span style="color:green">λ *whoami*</span>
+
 λ whoami
 adudenamedruby
 λ mdls
