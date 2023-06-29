@@ -1,4 +1,4 @@
-<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 800 1150" width="800" height="1150" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
@@ -25,7 +25,7 @@
           animation: gradient 15s ease infinite;
 
           width: 100%;
-          height: 300px;
+          height: 1150px;
 
           display: flex;
           justify-content: center;
@@ -34,16 +34,63 @@
         }
 
         .foregroundContainer {
-          width: 97%;
-          height: 95%;
+          position: absolute;
+          top: 10px;
+          bottom: 10px;
+          left: 10px;
+          right: 10px;
 
           display: flex;
-          background-color: black;
+          background-color: rgba(0, 0, 0, 0.85);
+          justify-content: center;
+          align-items: center;
+          color: white;
+        }
+
+        .terminalContainer {
+          width: 100%;
+          height: 100%;
+
+          display: flex;
+          background-color: clear;
           justify-content: left;
           align-items: left;
           color: white;
 
           font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+          font-size: 13px;
+        }
+
+        .greenText {
+          color: rgb(10, 228, 164);
+
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+          font-size: 13px;
+        }
+
+        .tealText {
+          color: rgb(0, 230, 230);
+
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+          font-size: 13px;
+        }
+
+        .yellowText {
+          color: rgb(249, 249, 114);
+
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+          font-size: 13px;
+        }
+
+        .redText {
+          color: red;
+
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+          font-size: 13px;
+        }
+
+        .no-collapse {
+            white-space: pre;
         }
 
         @media (prefers-color-scheme: light) {
@@ -60,13 +107,72 @@
             animation: none;
           }
         }
+
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        li {
+            padding-bottom: 3px;
+            padding-left: 10px;
+        }
+
+        .padded-item {
+            padding-left: 20px;
+        }
       </style>
 
       <div class="backgroundContainer">
-          <div class="foregroundContainer">
-            <p>whoami</p>
-          </div>
-      </div>
+      <div class="foregroundContainer">
+      <div class="terminalContainer">
+        <section>
+          <ul>
+            <li><span class="tealText">~ </span><span class="greenText">λ</span></li>
+            <li><span class="tealText">~ </span><span class="greenText">λ cd</span> adudenamedruby</li>
+            <li><span class="tealText">~/adudenamedruby </span>on <span class="yellowText">main [<span class="redText">-2</span><span class="greenText">+1</span>]</span><span class="greenText"> λ ls</span></li>
+            <li class="no-collapse">info.txt      code.txt      blurb.txt      trivia.txt</li>
+            <li><span class="tealText">~/adudenamedruby </span>on <span class="yellowText">main [<span class="redText">-2</span><span class="greenText">+1</span>]</span><span class="greenText"> λ cat</span> info.txt</li>
+            <li class="no-collapse">name:                roux g. buciu</li>
+            <li class="no-collapse">position:            senior software engineer</li>
+            <li class="no-collapse">org:                    mozilla</li>
+            <li class="no-collapse">background:     philosophy, literature, psychology, physics</li>
+            <li><span class="tealText">~/adudenamedruby </span>on <span class="yellowText">main [<span class="redText">-2</span><span class="greenText">+1</span>]</span><span class="greenText"> λ cat</span> code.txt</li>
+            <li class="no-collapse">languages:        swift, lisp (common, racket, elisp), python, prolog, c</li>
+            <li class="no-collapse">os:                     macOS, iOS, ubuntu, arch</li>
+            <li class="no-collapse">os:                     macOS, iOS, ubuntu, arch</li>
+            <li><span class="tealText">~/adudenamedruby </span>on <span class="yellowText">main [<span class="redText">-2</span><span class="greenText">+1</span>]</span><span class="greenText"> λ cat</span> blurb.txt</li>
+            <li class="no-collapse">"Programming is wonderful because it's an equal mix of problem solving</li>
+            <li class="no-collapse"> and creativity. But also, there's that bit of mysticism about it, of being one</li>
+            <li class="no-collapse"> of the people who can read the secret script and wield the sacred power that</li>
+            <li class="no-collapse"> runs our societies. Hopefully I can use that power for good."</li>
+            <li><span class="tealText">~/adudenamedruby </span>on <span class="yellowText">main [<span class="redText">-2</span><span class="greenText">+1</span>]</span><span class="greenText"> λ cat</span> trivia.txt</li>
+            <li class="no-collapse">interests:            bass, neurosicence, astrophysics, game design, crepes</li>
+            <li class="no-collapse">editors:               emacs, neovim</li>
+          </ul>
+          <ul>
+            <li><span class="tealText">~/adudenamedruby </span>on <span class="yellowText">main [<span class="redText">-2</span><span class="greenText">+1</span>]</span><span class="greenText"> λ github </span>--profile</li>
+            <li>
+              <img src="https://raw.githubusercontent.com/adudenamedruby/profile-cards/master/profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" width="700" height="200"></img>
+            </li>
+          </ul>
+          <ul>
+            <li><span class="tealText">~/adudenamedruby </span>on <span class="yellowText">main [<span class="redText">-2</span><span class="greenText">+1</span>]</span><span class="greenText"> λ github </span>--languages-by-commit --commits-by-time</li>
+            <li>
+              <img src="https://raw.githubusercontent.com/adudenamedruby/profile-cards/master/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Languages by commit" width="340" height="200"></img>
+              <img src="https://raw.githubusercontent.com/adudenamedruby/profile-cards/master/profile-summary-card-output/radical/4-productive-time.svg" alt="Commit times" width="340" height="200"></img>
+            </li>
+          </ul>
+          <ul>
+            <li><span class="tealText">~/adudenamedruby </span>on <span class="yellowText">main [<span class="redText">-2</span><span class="greenText">+1</span>]</span><span class="greenText"> λ github </span>--stats</li>
+            <li>
+              <img src="https://raw.githubusercontent.com/adudenamedruby/profile-cards/master/profile-summary-card-output/radical/3-stats.svg" alt="Github stats" width="340" height="200"></img>
+            </li>
+          </ul>
+        </section>
+       </div>
+       </div>
+       </div>
     </div>
   </foreignObject>
 </svg>
