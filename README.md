@@ -11,7 +11,7 @@
 
 ### Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=5&theme=radical&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=adudenamedruby&row=2&column=5&theme=radical&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 </div>
