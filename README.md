@@ -2,7 +2,7 @@
    <h1>Hullo! 👋</h1>
 </div>
 
-###  $whoami
+### λ whoami
 
 My background is in philosophy, neuroscience, and physics. I like programming because it a great mix of problem solving and creativity. But also, there's that bit of mysticism about it, of being one of the people who read the secret script and wields the sacred power that runs our societies. Hopefully I can use that power for good. I'm also deeply passionate about education, and well-being, both mental and physical.
 
@@ -10,11 +10,18 @@ My life revolves around playing bass, literature, code, Tetris, education.
 
 And crepes.
 
+## λ stats
+
 ![](https://raw.githubusercontent.com/adudenamedruby/profile-cards/master/profile-summary-card-output/radical/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/adudenamedruby/profile-cards/master/profile-summary-card-output/radical/1-repos-per-language.svg)
 ![](https://raw.githubusercontent.com/adudenamedruby/profile-cards/master/profile-summary-card-output/radical/2-most-commit-language.svg)
 ![](https://raw.githubusercontent.com/adudenamedruby/profile-cards/master/profile-summary-card-output/radical/3-stats.svg)
 ![](https://raw.githubusercontent.com/adudenamedruby/profile-cards/master/profile-summary-card-output/radical/4-productive-time.svg)
+
+## λ trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=4&theme=radical&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 </div>
 <!--
