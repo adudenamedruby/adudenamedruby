@@ -10,11 +10,11 @@ My life revolves around playing bass, literature, code, Tetris, education.
 
 And crepes.
 
-![](https://raw.githubusercontent.com/adudenamedruby/adudenamedruby/master/profile-summary-card-output/radical/0-profile-details.svg)
-![](https://raw.githubusercontent.com/adudenamedruby/adudenamedruby/master/profile-summary-card-output/radical/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/adudenamedruby/adudenamedruby/master/profile-summary-card-output/radical/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/adudenamedruby/adudenamedruby/master/profile-summary-card-output/radical/3-stats.svg)
-![](https://raw.githubusercontent.com/adudenamedruby/adudenamedruby/master/profile-summary-card-output/radical/4-productive-time.svg)
+![](https://raw.githubusercontent.com/adudenamedruby/profile-cards/master/profile-summary-card-output/radical/0-profile-details.svg)
+![](https://raw.githubusercontent.com/adudenamedruby/profile-cards/master/profile-summary-card-output/radical/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/adudenamedruby/profile-cards/master/profile-summary-card-output/radical/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/adudenamedruby/profile-cards/master/profile-summary-card-output/radical/3-stats.svg)
+![](https://raw.githubusercontent.com/adudenamedruby/profile-cards/master/profile-summary-card-output/radical/4-productive-time.svg)
 
 </div>
 <!--
