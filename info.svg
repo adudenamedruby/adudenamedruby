@@ -140,7 +140,6 @@
             <li><span class="tealText">~/adudenamedruby </span>on <span class="yellowText">main [<span class="redText">-2</span><span class="greenText">+1</span>]</span><span class="greenText"> λ cat</span> code.txt</li>
             <li class="no-collapse">languages:        swift, lisp (common, racket, elisp), python, prolog, c</li>
             <li class="no-collapse">os:                     macOS, iOS, ubuntu, arch</li>
-            <li class="no-collapse">os:                     macOS, iOS, ubuntu, arch</li>
             <li><span class="tealText">~/adudenamedruby </span>on <span class="yellowText">main [<span class="redText">-2</span><span class="greenText">+1</span>]</span><span class="greenText"> λ cat</span> blurb.txt</li>
             <li class="no-collapse">"Programming is wonderful because it's an equal mix of problem solving</li>
             <li class="no-collapse"> and creativity. But also, there's that bit of mysticism about it, of being one</li>
