@@ -119,8 +119,25 @@
             padding-left: 10px;
         }
 
-        .padded-item {
-            padding-left: 20px;
+        li.blinking-item::after {
+          content: "";
+          position: absolute;
+          width: 8px;
+          height: 15px;
+          background-color: pink;
+          animation: blinkCursor 1s infinite;
+        }
+
+        @keyframes blinkCursor {
+          0% {
+            opacity: 0;
+          }
+          50% {
+            opacity: 1;
+          }
+          100% {
+            opacity: 0;
+          }
         }
       </style>
 
@@ -156,6 +173,7 @@
             <li class="no-collapse"> and creativity. But also, there's that bit of mysticism about it, of being one</li>
             <li class="no-collapse"> of the people who can read the secret script and wield the sacred power that</li>
             <li class="no-collapse"> runs our societies. Hopefully I can use that power for good."</li>
+            <li class="blinking-item no-collapse"><span class="tealText">~/adudenamedruby </span>on <span class="yellowText">main [<span class="redText">-2</span><span class="greenText">+1</span>]</span><span class="greenText"> λ </span></li>
           </ul>
         </section>
        </div>
