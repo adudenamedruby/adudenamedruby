@@ -1,4 +1,4 @@
-<svg fill="none" viewBox="0 0 750 625" width="700" height="625" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 750 685" width="700" height="685" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
@@ -26,7 +26,7 @@
 
           position: relative;
           width: 100%;
-          height: 625px;
+          height: 685px;
 
           display: flex;
           justify-content: center;
@@ -42,7 +42,7 @@
           right: 10px;
 
           display: flex;
-          background-color: rgba(0, 0, 0, 0.85);
+          background-color: rgba(0, 0, 0, 0.87);
           justify-content: center;
           align-items: center;
           color: white;
@@ -152,8 +152,12 @@
             <li class="no-collapse">info.txt      code.txt      blurb.txt</li>
             <li><span class="tealText">~/adudenamedruby </span>on <span class="yellowText">main [<span class="redText">-2</span><span class="greenText">+1</span>]</span><span class="greenText"> λ cat</span> info.txt</li>
             <li class="no-collapse">name:                       roux g. buciu</li>
+            <li class="no-collapse">online handle:          adudenamedruby</li>
+            <li class="no-collapse">contact:                    info@fringe.foundation</li>
+            <li class="no-collapse">homepage:               https://fringe.foundation</li>
             <li class="no-collapse">position:                   senior software engineer</li>
             <li class="no-collapse">org:                           mozilla</li>
+            <li class="no-collapse">background:            philosophy, literature, psychology, physics</li>
             <li class="no-collapse">interests/hobbies:   bass, neurosicence, astrophysics, game design, tetris, crepes</li>
             <li><span class="tealText">~/adudenamedruby </span>on <span class="yellowText">main [<span class="redText">-2</span><span class="greenText">+1</span>]</span><span class="greenText"> λ cat</span> code.txt</li>
             <li class="no-collapse">languages</li>
@@ -169,10 +173,12 @@
             <li class="no-collapse">    customizer:         karabiner-elements</li>
             <li class="no-collapse">window manager:   amethyst, xmonad</li>
             <li><span class="tealText">~/adudenamedruby </span>on <span class="yellowText">main [<span class="redText">-2</span><span class="greenText">+1</span>]</span><span class="greenText"> λ cat</span> blurb.txt</li>
-            <li class="no-collapse">"Programming is wonderful because it's an equal mix of problem solving</li>
-            <li class="no-collapse"> and creativity. But also, there's that bit of mysticism about it, of being one</li>
-            <li class="no-collapse"> of the people who can read the secret script and wield the sacred power that</li>
-            <li class="no-collapse"> runs our societies. Hopefully I can use that power for good."</li>
+            <li class="no-collapse">"To me, programming is not just a heady mix of problem solving and logic. It's about</li>
+            <li class="no-collapse"> gaining the ability to freely, creatively, and meaningfully express yourself, your</li>
+            <li class="no-collapse"> thoughts, and your intent when interfacing with a computer, and, to a great extent,</li>
+            <li class="no-collapse"> the world. But also, there's that bit of mysticism about it, of being one of the chosen</li> 
+            <li class="no-collapse"> that can read the secret script and wield the sacred power upon which our modern</li>
+            <li class="no-collapse"> societies run. Hopefully, I can use that power for good."</li>
             <li class="blinking-item no-collapse"><span class="tealText">~/adudenamedruby </span>on <span class="yellowText">main [<span class="redText">-2</span><span class="greenText">+1</span>]</span><span class="greenText"> λ </span></li>
           </ul>
         </section>
