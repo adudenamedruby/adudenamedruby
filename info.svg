@@ -124,7 +124,7 @@
           position: absolute;
           width: 8px;
           height: 15px;
-          background-color: pink;
+          background-color: rgb(255, 0, 246);
           animation: blinkCursor 1s infinite;
         }
 
