@@ -161,7 +161,7 @@
             <li class="no-collapse">interests/hobbies:   bass, neurosicence, astrophysics, game design, tetris, crepes</li>
             <li><span class="tealText">~/adudenamedruby </span>on <span class="yellowText">main [<span class="redText">-2</span><span class="greenText">+1</span>]</span><span class="greenText"> λ cat</span> code.txt</li>
             <li class="no-collapse">languages</li>
-            <li class="no-collapse">    known:                 swift, lisp (common, racket, elisp), python, prolog</li>
+            <li class="no-collapse">    known:                 swift, obj-c, lisp (common, racket, elisp), python, prolog, c, verilog</li>
             <li class="no-collapse">    to learn:               clojure, haskell, ocaml, rust, apl</li>
             <li class="no-collapse">os:                            macOS, ubuntu, arch</li>
             <li class="no-collapse">editors:                    emacs, neovim</li>
@@ -170,8 +170,6 @@
             <li class="no-collapse">keyboard</li>
             <li class="no-collapse">    model:                 keyboardio model 01/100</li>
             <li class="no-collapse">    layout:                 dvorak + custom symbol layer</li>
-            <li class="no-collapse">    customizer:         karabiner-elements</li>
-            <li class="no-collapse">window manager:   amethyst, xmonad</li>
             <li><span class="tealText">~/adudenamedruby </span>on <span class="yellowText">main [<span class="redText">-2</span><span class="greenText">+1</span>]</span><span class="greenText"> λ cat</span> blurb.txt</li>
             <li class="no-collapse">"To me, programming is not just a heady mix of problem solving and logic. It's about</li>
             <li class="no-collapse"> gaining the ability to freely, creatively, and meaningfully express yourself, your</li>
