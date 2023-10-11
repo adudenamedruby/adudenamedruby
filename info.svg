@@ -153,12 +153,12 @@
             <li><span class="tealText">~/adudenamedruby </span>on <span class="yellowText">main [<span class="redText">-2</span><span class="greenText">+1</span>]</span><span class="greenText"> λ cat</span> info.txt</li>
             <li class="no-collapse">name:                       roux g. buciu</li>
             <li class="no-collapse">online handle:          adudenamedruby</li>
-            <li class="no-collapse">contact:                    info@fringe.foundation</li>
-            <li class="no-collapse">homepage:               https://fringe.foundation</li>
+            <li class="no-collapse">contact:                    info@adudenamedruby</li>
+            <li class="no-collapse">homepage:               https://adudenamedruby.com</li>
             <li class="no-collapse">position:                   senior software engineer</li>
             <li class="no-collapse">org:                           mozilla</li>
             <li class="no-collapse">background:            philosophy, literature, psychology, physics</li>
-            <li class="no-collapse">interests/hobbies:   bass, neurosicence, astrophysics, game design, tetris, crepes</li>
+            <li class="no-collapse">interests/hobbies:   bass, literature, photography, neurosicence, astrophysics, tetris, crepes</li>
             <li><span class="tealText">~/adudenamedruby </span>on <span class="yellowText">main [<span class="redText">-2</span><span class="greenText">+1</span>]</span><span class="greenText"> λ cat</span> code.txt</li>
             <li class="no-collapse">languages</li>
             <li class="no-collapse">    known:                 swift, obj-c, lisp (common, racket, elisp), python, prolog, c, verilog</li>
