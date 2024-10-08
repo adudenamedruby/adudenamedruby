@@ -158,26 +158,18 @@
             <li class="no-collapse">position:                   senior software engineer</li>
             <li class="no-collapse">org:                           mozilla</li>
             <li class="no-collapse">background:            philosophy, literature, psychology, physics</li>
-            <li class="no-collapse">interests/hobbies:   bass, literature, photography, neurosicence, astrophysics, tetris, crepes</li>
+            <li class="no-collapse">interests/hobbies:   bass, literature, photography, baduk, neurosicence, astrophysics, tetris, crepes</li>
             <li><span class="tealText">~/adudenamedruby </span>on <span class="yellowText">main [<span class="redText">-2</span><span class="greenText">+1</span>]</span><span class="greenText"> λ cat</span> code.txt</li>
             <li class="no-collapse">languages</li>
-            <li class="no-collapse">    known:                 swift, obj-c, lisp (common, racket, elisp), python, prolog, c, verilog</li>
-            <li class="no-collapse">    to learn:               clojure, haskell, ocaml, rust, apl</li>
+            <li class="no-collapse">    known:                 swift, obj-c, lisp (clojure, common, racket, elisp), python, prolog</li>
+            <li class="no-collapse">    to learn:               haskell, apl</li>
             <li class="no-collapse">os:                            macOS, ubuntu, arch</li>
-            <li class="no-collapse">editors:                    emacs, neovim</li>
-            <li class="no-collapse">terminal:                  kitty, iTerm2</li>
+            <li class="no-collapse">editors:                    neovim, emacs</li>
+            <li class="no-collapse">terminal:                  wezterm</li>
             <li class="no-collapse">launcher:                 alfred, ulauncher</li>
             <li class="no-collapse">keyboard</li>
-            <li class="no-collapse">    model:                 keyboardio model 01/100</li>
-            <li class="no-collapse">    layout:                 dvorak + custom symbol layer</li>
-            <li><span class="tealText">~/adudenamedruby </span>on <span class="yellowText">main [<span class="redText">-2</span><span class="greenText">+1</span>]</span><span class="greenText"> λ cat</span> blurb.txt</li>
-            <li class="no-collapse">"To me, programming is not just a heady mix of problem solving and logic. It's about</li>
-            <li class="no-collapse"> gaining the ability to freely, creatively, and meaningfully express yourself, your</li>
-            <li class="no-collapse"> thoughts, and your intent when interfacing with a computer, and, to a great extent,</li>
-            <li class="no-collapse"> the world. But also, there's that bit of mysticism about it, of being one of the chosen</li> 
-            <li class="no-collapse"> that can read the secret script and wield the sacred power upon which our modern</li>
-            <li class="no-collapse"> societies run. Hopefully, I can use that power for good."</li>
-            <li class="blinking-item no-collapse"><span class="tealText">~/adudenamedruby </span>on <span class="yellowText">main [<span class="redText">-2</span><span class="greenText">+1</span>]</span><span class="greenText"> λ </span></li>
+            <li class="no-collapse">    model:                 glove80, keyboardio model 01</li>
+            <li class="no-collapse">    layout:                 graphite + custom symbol layer</li>
           </ul>
         </section>
        </div>
