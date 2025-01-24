@@ -149,7 +149,7 @@
             <li><span class="tealText">~ </span><span class="greenText">λ</span></li>
             <li><span class="tealText">~ </span><span class="greenText">λ cd</span> adudenamedruby</li>
             <li><span class="tealText">~/adudenamedruby </span>on <span class="yellowText">main [<span class="redText">-2</span><span class="greenText">+1</span>]</span><span class="greenText"> λ ls</span></li>
-            <li class="no-collapse">info.txt      code.txt      blurb.txt</li>
+            <li class="no-collapse">info.txt      code.txt</li>
             <li><span class="tealText">~/adudenamedruby </span>on <span class="yellowText">main [<span class="redText">-2</span><span class="greenText">+1</span>]</span><span class="greenText"> λ cat</span> info.txt</li>
             <li class="no-collapse">name:                       roux g. buciu</li>
             <li class="no-collapse">online handle:          adudenamedruby</li>
@@ -161,15 +161,14 @@
             <li class="no-collapse">interests/hobbies:   bass, literature, photography, baduk, neurosicence, astrophysics, tetris, crepes</li>
             <li><span class="tealText">~/adudenamedruby </span>on <span class="yellowText">main [<span class="redText">-2</span><span class="greenText">+1</span>]</span><span class="greenText"> λ cat</span> code.txt</li>
             <li class="no-collapse">languages</li>
-            <li class="no-collapse">    known:                 swift, obj-c, lisp (clojure, common, racket, elisp), python, prolog</li>
-            <li class="no-collapse">    to learn:               haskell, apl</li>
-            <li class="no-collapse">os:                            macOS, ubuntu, arch</li>
-            <li class="no-collapse">editors:                    neovim, emacs</li>
-            <li class="no-collapse">terminal:                  wezterm</li>
-            <li class="no-collapse">launcher:                 alfred, ulauncher</li>
+            <li class="no-collapse">    known:                 swift, rust, obj-c, clojure, scheme, python, prolog, VDHL</li>
+            <li class="no-collapse">    to learn:               go, haskell, apl</li>
+            <li class="no-collapse">os:                            macOS, ubuntu</li>
+            <li class="no-collapse">editors:                    neovim</li>
+            <li class="no-collapse">terminal:                  ghostty</li>
             <li class="no-collapse">keyboard</li>
             <li class="no-collapse">    model:                 glove80, keyboardio model 01</li>
-            <li class="no-collapse">    layout:                 graphite + custom symbol layer</li>
+            <li class="no-collapse">    layout:                 dvorak + custom symbol layer</li>
           </ul>
         </section>
        </div>
