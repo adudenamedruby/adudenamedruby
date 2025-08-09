@@ -158,11 +158,11 @@
             <li class="no-collapse">position:                   senior software engineer</li>
             <li class="no-collapse">org:                           mozilla</li>
             <li class="no-collapse">background:            philosophy, literature, psychology, physics</li>
-            <li class="no-collapse">interests/hobbies:   bass, literature, photography, baduk, neurosicence, astrophysics, tetris, crepes</li>
+            <li class="no-collapse">interests/hobbies:   bass, literature, art, photography, baduk, neurosicence, astrophysics, tetris, crepes</li>
             <li><span class="tealText">~/adudenamedruby </span>on <span class="yellowText">main [<span class="redText">-2</span><span class="greenText">+1</span>]</span><span class="greenText"> λ cat</span> code.txt</li>
             <li class="no-collapse">languages</li>
-            <li class="no-collapse">    known:                 swift, rust, obj-c, clojure, scheme, python, prolog, VDHL</li>
-            <li class="no-collapse">    to learn:               go, haskell, apl</li>
+            <li class="no-collapse">    proficient:            swift, clojure</li>
+            <li class="no-collapse">    known:                 obj-c, rust, go, scheme, python, prolog, VDHL</li>
             <li class="no-collapse">os:                            macOS, ubuntu</li>
             <li class="no-collapse">editors:                    neovim</li>
             <li class="no-collapse">terminal:                  ghostty</li>
