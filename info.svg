@@ -155,17 +155,17 @@
             <li class="no-collapse">online handle:          adudenamedruby</li>
             <li class="no-collapse">contact:                    info@adudenamedruby</li>
             <li class="no-collapse">homepage:               https://adudenamedruby.com</li>
-            <li class="no-collapse">position:                   senior software engineer</li>
+            <li class="no-collapse">position:                   staff software engineer</li>
             <li class="no-collapse">org:                           mozilla</li>
-            <li class="no-collapse">background:            philosophy, literature, psychology, physics</li>
-            <li class="no-collapse">interests/hobbies:   bass, literature, art, photography, baduk, neurosicence, astrophysics, tetris, crepes</li>
+            <li class="no-collapse">background:            philosophy, literature, psychology, astrophysics</li>
+            <li class="no-collapse">interests/hobbies:   bass, literature, art, photography, baduk, neurosicence, astrophysics, tetris, eating watermelons</li>
             <li><span class="tealText">~/adudenamedruby </span>on <span class="yellowText">main [<span class="redText">-2</span><span class="greenText">+1</span>]</span><span class="greenText"> λ cat</span> code.txt</li>
             <li class="no-collapse">languages</li>
-            <li class="no-collapse">    proficient:            swift, clojure</li>
-            <li class="no-collapse">    known:                 obj-c, rust, go, scheme, python, prolog, VDHL</li>
-            <li class="no-collapse">os:                            macOS, ubuntu</li>
+            <li class="no-collapse">    proficient:            swift, rust, clojure</li>
+            <li class="no-collapse">    known:                 obj-c, lisp, scheme, go, python, prolog, VDHL</li>
+            <li class="no-collapse">os:                            macOS, arch</li>
             <li class="no-collapse">editors:                    neovim</li>
-            <li class="no-collapse">terminal:                  ghostty</li>
+            <li class="no-collapse">terminal:                  wezterm</li>
             <li class="no-collapse">keyboard</li>
             <li class="no-collapse">    model:                 glove80, keyboardio model 01</li>
             <li class="no-collapse">    layout:                 dvorak + custom symbol layer</li>
