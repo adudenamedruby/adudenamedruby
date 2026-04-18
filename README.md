@@ -1,5 +1,5 @@
 <div style="width: 100%;">
-  <img src="info.sv" style="width: 100%;" alt="Click to see the source">
+  <img src="info.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
 ### GitHub Stats
